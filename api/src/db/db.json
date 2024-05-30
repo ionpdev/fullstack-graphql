@@ -3,5 +3,48 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "1HeHYDgK83v4PwMNtR09B",
+      "createdAt": 1712689240055,
+      "name": "Jefrei",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "UUnrtVVi7mbUubZojUmWn",
+      "createdAt": 1712689250823,
+      "name": "Liusinda",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "7_RZY1HvDHcy1sunBrB_c",
+      "createdAt": 1712689273858,
+      "name": "David",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "RtU5O6P3rgXZmX1MD-vlM",
+      "createdAt": 1712770103533,
+      "name": "Goose",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "dsG-jy-z7cZ-FkutTivSx",
+      "createdAt": 1712777390471,
+      "name": "Caroll",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "HNbRBOA9Nr01VqhxHSKUA",
+      "createdAt": 1712777402407,
+      "name": "Brandon",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
